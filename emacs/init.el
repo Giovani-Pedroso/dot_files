@@ -1,0 +1,1 @@
+/home/giovani/.emacs.d/init.el
